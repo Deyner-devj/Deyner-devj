@@ -99,12 +99,12 @@ Portafolio full stack con panel administrativo para gestionar proyectos, multime
 ## Estadísticas de GitHub
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Deyner-devj&show_icons=true&hide_border=true&theme=github_dark&locale=es&rank_icon=github" alt="Estadísticas de GitHub de Deyner-devj" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deyner-devj&layout=compact&hide_border=true&theme=github_dark&locale=es&langs_count=8" alt="Lenguajes más usados" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deyner-devj&theme=github_dark" alt="Resumen de actividad en GitHub" />
 </p>
 
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=Deyner-devj&theme=github-dark&hide_border=true&locale=es" alt="Racha de contribuciones" />
+  <img src="https://komarev.com/ghpvc/?username=Deyner-devj&style=flat-square&color=2F7D46&label=visitas%20al%20perfil" alt="Visitas al perfil" />
 </p>
 
 ---
