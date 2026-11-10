@@ -7,14 +7,13 @@ Construyo APIs REST y aplicaciones web con foco en arquitectura limpia, segurida
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Deyner%20Chaverra-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deyner-chaverra-83b599383)
 [![Email](https://img.shields.io/badge/Email-deyner.ingsoftware%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:deyner.ingsoftware@gmail.com)
 [![Ubicación](https://img.shields.io/badge/Medell%C3%ADn-Colombia-1F883D?style=flat-square&logo=googlemaps&logoColor=white)](#)
-[![AgroMarket](https://img.shields.io/badge/Demo-AgroMarket-2F7D46?style=flat-square&logo=googlechrome&logoColor=white)](https://www.agro-market.app)
 
 ---
 
 ## Sobre mí
 
 - Desarrollador backend con **Java 17 y Spring Boot**: APIs REST, autenticación con JWT, autorización por rol y persistencia en **PostgreSQL**.
-- Aplico **arquitectura hexagonal y DDD** con separación estricta de capas en proyectos como **CHADEI** y **AgroMarket**.
+- Aplico **arquitectura hexagonal y DDD** con separación estricta de capas en **CHADEI**.
 - Frontend con **React 19 + TypeScript**, Vite, Tailwind CSS, TanStack Query y Zustand.
 - Exploro **Web3 y agentes de IA** con Solidity, Next.js y Supabase en **NatiMON** (Monad Blitz Medellín V2).
 - Trabajo con **Conventional Commits**, ramas `feature/`, Pull Requests, pruebas automatizadas y documentación técnica.
@@ -67,14 +66,6 @@ Construyo APIs REST y aplicaciones web con foco en arquitectura limpia, segurida
 ---
 
 ## Proyectos destacados
-
-### [AgroMarket](https://github.com/Deyner-devj/AgroMarket)
-
-Marketplace agropecuario que conecta productores de Urabá con compradores de todo el país. Incluye catálogo con filtros, carrito, pedidos, cupones, cotizaciones, pasarela de pagos, envíos y panel administrativo.
-
-`Java 17` `Spring Boot` `React` `PostgreSQL` `Cloudflare` · [Demo en vivo](https://www.agro-market.app)
-
-[![AgroMarket](https://raw.githubusercontent.com/Deyner-devj/AgroMarket/main/docs/capturas/home.png)](https://www.agro-market.app)
 
 ### [CHADEI](https://github.com/Deyner-devj/chadei)
 
