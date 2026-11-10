@@ -39,7 +39,6 @@ Construyo APIs REST y aplicaciones web con foco en arquitectura limpia, segurida
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
 
 **Datos**
 
@@ -67,23 +66,11 @@ Construyo APIs REST y aplicaciones web con foco en arquitectura limpia, segurida
 
 ## Proyectos destacados
 
-### [CHADEI](https://github.com/Deyner-devj/chadei)
-
-SaaS multitienda para catálogos digitales y pedidos por WhatsApp. Backend con DDD y arquitectura hexagonal, seguridad JWT con roles y autorización por recurso, y frontend PWA en React 19.
-
-`Java 17` `Spring Boot` `Spring Security` `PostgreSQL` `React 19` `TypeScript` `PWA`
 
 ### [NatiMON](https://github.com/Deyner-devj/natimon)
 
 Natillera on-chain en Monad: el contrato actúa como tesorero, el colateral cubre a los morosos y un agente de IA opera el círculo. Proyecto de Monad Blitz Medellín V2.
 
-`Solidity` `Foundry` `Next.js 15` `TypeScript` `Supabase` `Monad Testnet`
-
-### [Portafolio profesional](https://github.com/Deyner-devj/portafolio-deyner-chaverra)
-
-Portafolio full stack con panel administrativo para gestionar proyectos, multimedia, eventos y mensajes de contacto. Incluye Docker Compose y almacenamiento en Cloudinary.
-
-`React` `Spring Boot 3` `Java 17` `PostgreSQL 16` `Docker` `Cloudinary`
 
 ---
 
@@ -98,14 +85,6 @@ Portafolio full stack con panel administrativo para gestionar proyectos, multime
   <img src="https://komarev.com/ghpvc/?username=Deyner-devj&style=flat-square&color=2F7D46&label=visitas%20al%20perfil" alt="Visitas al perfil" />
 </p>
 
----
-
-## Cómo trabajo
-
-- **Commits:** [Conventional Commits](https://www.conventionalcommits.org/es/v1.0.0/) (`feat:`, `fix:`, `refactor:`, `docs:`, `test:`, `chore:`).
-- **Ramas:** `feature/<alcance>`, `fix/<alcance>`, `docs/<alcance>`; integración mediante Pull Requests con descripción y checklist.
-- **Calidad:** pruebas unitarias e integración, validación de tipos, linting y formato antes de integrar.
-- **Documentación:** cada repositorio explica qué hace, cómo se instala, qué tecnologías usa y cómo se prueba.
 
 ---
 
